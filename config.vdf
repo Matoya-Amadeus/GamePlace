@@ -1,0 +1,1458 @@
+"InstallConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"Perf"
+				{
+					"GameProfiles"
+					{
+						"Global"
+						{
+							"0"
+							{
+								"0"		""
+							}
+						}
+						"App"
+						{
+							"769"
+							{
+								"0"
+								{
+									"0"		""
+								}
+							}
+						}
+					}
+				}
+				"AutoUpdateWindowEnabled"		"0"
+				"ipv6check_http_state"		"bad"
+				"ipv6check_udp_state"		"bad"
+				"ShaderCacheManager"
+				{
+					"HasCurrentBucket"		"1"
+					"CurrentBucketGPU"		""
+					"CurrentBucketDriver"		""
+					"EnableShaderBackgroundProcessing"		"0"
+					"App"
+					{
+						"825630"
+						{
+							"ShaderCacheSize"		"121407"
+						}
+						"1086940"
+						{
+							"ShaderCacheSize"		"15795"
+						}
+						"1589120"
+						{
+							"ShaderCacheSize"		"84"
+						}
+					}
+					"CommittedDepotManifests"
+					{
+						"228280"		""
+						"228980"		""
+						"365450"		""
+						"375820"		""
+						"394360"		""
+						"412830"		""
+						"457140"		""
+						"619150"		""
+						"633230"		""
+						"650760"		""
+						"681810"		""
+						"825630"		""
+						"882790"		""
+						"955900"		""
+						"990080"		""
+						"994280"		""
+						"1086940"		""
+						"1113120"		""
+						"1189490"		""
+						"1189630"		""
+						"1210320"		""
+						"1245620"		""
+						"1407450"		""
+						"1448440"		""
+						"1589120"		""
+						"1669980"		""
+						"1876890"		""
+						"1948980"		""
+						"2340650"		""
+						"2379780"		""
+						"2805730"		""
+					}
+				}
+				"MTBF"		"803892794"
+				"ConnectCache"
+				{
+				}
+				"CMWebSocket"
+				{
+					"ext2-hkg1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-hkg1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1732605611"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext1-hkg1.steamserver.net:27029"
+					{
+						"LastPingTimestamp"		"1720186899"
+						"DC"		"iad1"
+						"LastPingValue"		"187"
+						"LastLoadValue"		"63"
+					}
+					"ext1-hkg1.steamserver.net:27030"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext1-sgp1.steamserver.net:27024"
+					{
+						"LastPingTimestamp"		"1722858339"
+						"DC"		"iad1"
+						"LastPingValue"		"298"
+						"LastLoadValue"		"54"
+					}
+					"ext4-hkg1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"1732211261"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"1732603506"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27028"
+					{
+						"LastPingTimestamp"		"1692157056"
+						"DC"		"iad1"
+						"LastPingValue"		"171"
+						"LastLoadValue"		"56"
+					}
+					"ext2-hkg1.steamserver.net:27021"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-hkg1.steamserver.net:27030"
+					{
+						"LastPingTimestamp"		"1692157056"
+						"DC"		"iad1"
+						"LastPingValue"		"171"
+						"LastLoadValue"		"59"
+					}
+					"ext3-hkg1.steamserver.net:27021"
+					{
+						"LastPingTimestamp"		"1720712204"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27024"
+					{
+						"LastPingTimestamp"		"1724641359"
+						"DC"		"iad1"
+						"LastPingValue"		"75"
+						"LastLoadValue"		"61"
+					}
+					"ext2-hkg1.steamserver.net:27032"
+					{
+						"LastPingTimestamp"		"1732603506"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27037"
+					{
+						"LastPingTimestamp"		"1732595659"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-sgp1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"1732605358"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-sgp1.steamserver.net:27021"
+					{
+						"LastPingTimestamp"		"1718375386"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27032"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext2-hkg1.steamserver.net:27035"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext3-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"1725607126"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27036"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext3-sgp1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"1732605611"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"1711382380"
+						"DC"		"iad1"
+						"LastPingValue"		"267"
+						"LastLoadValue"		"55"
+					}
+					"ext1-sgp1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext3-hkg1.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"1711366559"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27034"
+					{
+						"LastPingTimestamp"		"1727616638"
+						"DC"		"iad1"
+						"LastPingValue"		"79"
+						"LastLoadValue"		"47"
+					}
+					"ext1-hkg1.steamserver.net:27020"
+					{
+						"LastPingTimestamp"		"1732605358"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27024"
+					{
+						"LastPingTimestamp"		"1723137223"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27032"
+					{
+						"LastPingTimestamp"		"1722910956"
+						"DC"		"iad1"
+						"LastPingValue"		"123"
+						"LastLoadValue"		"42"
+					}
+					"ext1-hkg1.steamserver.net:27035"
+					{
+						"LastPingTimestamp"		"1706821383"
+						"DC"		"iad1"
+						"LastPingValue"		"208"
+						"LastLoadValue"		"42"
+					}
+					"ext3-hkg1.steamserver.net:27025"
+					{
+						"LastPingTimestamp"		"1717834010"
+						"DC"		"iad1"
+						"LastPingValue"		"73"
+						"LastLoadValue"		"60"
+					}
+					"ext1-sgp1.steamserver.net:27038"
+					{
+						"LastPingTimestamp"		"1728408971"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27031"
+					{
+						"LastPingTimestamp"		"1705985749"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27033"
+					{
+						"LastPingTimestamp"		"1705123120"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27028"
+					{
+						"LastPingTimestamp"		"1711953717"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-hkg1.steamserver.net:27038"
+					{
+						"LastPingTimestamp"		"1722236366"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27034"
+					{
+						"LastPingTimestamp"		"1681652670"
+						"DC"		"iad1"
+						"LastPingValue"		"137"
+						"LastLoadValue"		"90"
+					}
+					"ext4-hkg1.steamserver.net:27032"
+					{
+						"LastPingTimestamp"		"1702623588"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27028"
+					{
+						"LastPingTimestamp"		"1721100416"
+						"DC"		"iad1"
+						"LastPingValue"		"106"
+						"LastLoadValue"		"45"
+					}
+					"ext3-hkg1.steamserver.net:27036"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext1-hkg1.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"1731772523"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27037"
+					{
+						"LastPingTimestamp"		"1732605611"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27038"
+					{
+						"LastPingTimestamp"		"1732602592"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27030"
+					{
+						"LastPingTimestamp"		"1732594602"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"1717841399"
+						"DC"		"iad1"
+						"LastPingValue"		"66"
+						"LastLoadValue"		"56"
+					}
+					"ext4-hkg1.steamserver.net:27036"
+					{
+						"LastPingTimestamp"		"1711382380"
+						"DC"		"iad1"
+						"LastPingValue"		"235"
+						"LastLoadValue"		"67"
+					}
+					"ext4-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"1732602592"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27021"
+					{
+						"LastPingTimestamp"		"1720949099"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27023"
+					{
+						"LastPingTimestamp"		"1706112495"
+						"DC"		"iad1"
+						"LastPingValue"		"472"
+						"LastLoadValue"		"59"
+					}
+					"ext2-hkg1.steamserver.net:27037"
+					{
+						"LastPingTimestamp"		"1687409293"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27035"
+					{
+						"LastPingTimestamp"		"1704265207"
+						"DC"		"iad1"
+						"LastPingValue"		"133"
+						"LastLoadValue"		"53"
+					}
+					"ext1-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"1732185555"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27038"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-hkg1.steamserver.net:27019"
+					{
+						"LastPingTimestamp"		"1706032461"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1731772523"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27029"
+					{
+						"LastPingTimestamp"		"1727178129"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27024"
+					{
+						"LastPingTimestamp"		"1724414865"
+						"DC"		"iad1"
+						"LastPingValue"		"114"
+						"LastLoadValue"		"58"
+					}
+					"ext4-hkg1.steamserver.net:27037"
+					{
+						"LastPingTimestamp"		"1711953717"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext3-hkg1.steamserver.net:27031"
+					{
+						"LastPingTimestamp"		"1724307488"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27033"
+					{
+						"LastPingTimestamp"		"1722299309"
+						"DC"		"iad1"
+						"LastPingValue"		"152"
+						"LastLoadValue"		"41"
+					}
+					"ext2-hkg1.steamserver.net:27025"
+					{
+						"LastPingTimestamp"		"1722910955"
+						"DC"		"iad1"
+						"LastPingValue"		"76"
+						"LastLoadValue"		"43"
+					}
+					"ext1-hkg1.steamserver.net:27021"
+					{
+						"LastPingTimestamp"		"1717328480"
+						"DC"		"iad1"
+						"LastPingValue"		"62"
+						"LastLoadValue"		"62"
+					}
+					"ext2-hkg1.steamserver.net:27038"
+					{
+						"LastPingTimestamp"		"1718414671"
+						"DC"		"iad1"
+						"LastPingValue"		"89"
+						"LastLoadValue"		"44"
+					}
+					"ext3-hkg1.steamserver.net:27034"
+					{
+						"LastPingTimestamp"		"1722470114"
+						"DC"		"iad1"
+						"LastPingValue"		"95"
+						"LastLoadValue"		"42"
+					}
+					"ext3-hkg1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1732605358"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27033"
+					{
+						"LastPingTimestamp"		"1718377260"
+						"DC"		"iad1"
+						"LastPingValue"		"108"
+						"LastLoadValue"		"63"
+					}
+					"ext3-hkg1.steamserver.net:27022"
+					{
+						"LastPingTimestamp"		"1722743621"
+						"DC"		"iad1"
+						"LastPingValue"		"193"
+						"LastLoadValue"		"45"
+					}
+					"ext2-hkg1.steamserver.net:27029"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext3-hkg1.steamserver.net:27030"
+					{
+						"LastPingTimestamp"		"1724487917"
+						"DC"		"iad1"
+						"LastPingValue"		"116"
+						"LastLoadValue"		"54"
+					}
+					"ext2-hkg1.steamserver.net:443"
+					{
+						"LastPingTimestamp"		"1724487917"
+						"DC"		"iad1"
+						"LastPingValue"		"116"
+						"LastLoadValue"		"78"
+					}
+					"ext1-hkg1.steamserver.net:27028"
+					{
+						"LastPingTimestamp"		"1722764082"
+						"DC"		"iad1"
+						"LastPingValue"		"107"
+						"LastLoadValue"		"53"
+					}
+					"ext4-hkg1.steamserver.net:27025"
+					{
+						"LastPingTimestamp"		"1722236366"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext2-hkg1.steamserver.net:27034"
+					{
+						"LastPingTimestamp"		"1721910440"
+						"DC"		"iad1"
+						"LastPingValue"		"93"
+						"LastLoadValue"		"59"
+					}
+					"ext1-sgp1.steamserver.net:27035"
+					{
+						"LastPingTimestamp"		"1722414506"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext4-hkg1.steamserver.net:27035"
+					{
+						"LastPingTimestamp"		"1722066246"
+						"DC"		"iad1"
+						"LastPingValue"		"133"
+						"LastLoadValue"		"61"
+					}
+					"ext1-hkg1.steamserver.net:27024"
+					{
+						"LastPingTimestamp"		"1711597249"
+						"DC"		"iad1"
+						"LastPingValue"		"218"
+						"LastLoadValue"		"45"
+					}
+					"ext3-hkg1.steamserver.net:27029"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-sgp1.steamserver.net:27029"
+					{
+						"LastPingTimestamp"		"1718143432"
+						"DC"		"iad1"
+						"LastPingValue"		"100000"
+						"LastLoadValue"		"0"
+					}
+					"ext1-hkg1.steamserver.net:27031"
+					{
+						"LastPingTimestamp"		"1718368717"
+						"DC"		"iad1"
+						"LastPingValue"		"91"
+						"LastLoadValue"		"63"
+					}
+					"ext4-hkg1.steamserver.net:27031"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext1-hkg1.steamserver.net:27025"
+					{
+						"LastPingTimestamp"		"1721987841"
+						"DC"		"iad1"
+						"LastPingValue"		"167"
+						"LastLoadValue"		"51"
+					}
+					"ext2-hkg1.steamserver.net:27036"
+					{
+						"LastPingTimestamp"		"0"
+						"DC"		"iad1"
+					}
+					"ext4-hkg1.steamserver.net:27033"
+					{
+						"LastPingTimestamp"		"1720580222"
+						"DC"		"iad1"
+						"LastPingValue"		"95"
+						"LastLoadValue"		"68"
+					}
+				}
+				"RecentWebSocket443Failures"		"1732598816,1732602592,1732603480,1732603506,1732605329,1732605343,1732605358,1732605480,1732605502,1732605611"
+				"RecentWebSocketNon443Failures"		"1732605343,1732605343,1732605358,1732605359,1732605480,1732605480,1732605502,1732605502,1732605611,1732605612"
+				"RecentUDPFailures"		""
+				"RecentTCPFailures"		""
+				"Accounts"
+				{
+					"ekv57092"
+					{
+						"SteamID"		"76561199355653886"
+					}
+					"1067184851"
+					{
+						"SteamID"		"76561198207485591"
+					}
+				}
+				"CellIDServerOverride"		"203"
+				"CM"		"103.28.54.165:27017;103.28.54.165:27018;103.28.54.162:27017;103.28.54.162:27018;103.28.54.178:27018;103.28.54.178:27017;103.28.54.181:27017;103.28.54.181:27018;103.10.124.122:27017;103.10.124.122:27018;103.10.124.124:27017;103.10.124.124:27018;103.10.124.123:27018;103.10.124.123:27017;103.10.124.125:27018;103.10.124.125:27017;155.133.245.36:27018;155.133.239.51:27017;155.133.239.51:27018;155.133.239.20:27017;155.133.239.20:27018;155.133.245.37:27017;155.133.245.36:27017;155.133.245.37:27018;162.254.195.66:27017;162.254.195.66:27018;162.254.195.71:27018;162.254.195.71:27017;205.196.6.214:27018;205.196.6.214:27017;205.196.6.215:27018;205.196.6.215:27017;155.133.253.50:27018;155.133.253.50:27017;155.133.253.34:27017;155.133.253.34:27018;162.254.193.102:27018;162.254.193.102:27017;162.254.193.74:27018;162.254.193.74:27017;162.254.192.75:27017;162.254.192.75:27018;162.254.192.74:27017;162.254.192.87:27018;162.254.192.87:27017;162.254.192.74:27018;162.254.192.71:27018;162.254.192.71:27017;162.254.199.163:27017;162.254.199.163:27018;162.254.199.181:27018;162.254.199.181:27017;103.10.125.156:27018;103.10.125.156:27017;103.10.125.148:27018;103.10.125.148:27017;162.254.196.68:27017;162.254.196.83:27018;162.254.196.83:27017;162.254.196.68:27018;162.254.196.84:27017;162.254.196.84:27018;162.254.196.67:27017;162.254.196.67:27018;146.66.152.44:27018;146.66.152.44:27017;146.66.152.38:27017;146.66.152.43:27017;146.66.152.43:27018;146.66.152.38:27018;146.66.152.39:27017;146.66.152.39:27018;155.133.248.39:27018;155.133.248.39:27017;155.133.248.38:27018;155.133.248.38:27017;185.25.182.20:27017;185.25.182.20:27018;185.25.182.52:27017;185.25.182.52:27018"
+				"PercentDefaultWebSockets"		"50"
+				"cip"		"0200000005108661b09d6e4a0000745f6b51"
+				"SentryFile"		"C:\\Program Files (x86)\\Steam\\ssfn5662713591404641334"
+				"SurveyDate"		"2024-07-03"
+				"SurveyDateVersion"		"-6579990889934951776"
+				"SurveyDateType"		"3"
+				"Rate"		"30000"
+				"depots"
+				{
+					"241100"
+					{
+						"DecryptionKey"		"141426adc496d4a9070cfa549623bd7f84bf70711e9c213881191eaad8cc90a4"
+					}
+					"228986"
+					{
+						"DecryptionKey"		"51dd3611d28621644730736f3bb1fd6b960053a45cd79123f2b9a80c9181dad5"
+					}
+					"228990"
+					{
+						"DecryptionKey"		"44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8"
+					}
+					"633231"
+					{
+						"DecryptionKey"		"94df9bad960ed6e04e89edf50a1b7a953c09cd7be9027ee380e41ba0a22e142b"
+					}
+					"1072421"
+					{
+						"DecryptionKey"		"ea3e24679754c7e32fd45950b725fab07df1573119307b7c85950f38fc293ecc"
+					}
+					"228988"
+					{
+						"DecryptionKey"		"1845444d5e2cfd0ae65ae4a8fedb6e2fbf776fcc5b913ab4ac461bc9a74f8358"
+					}
+					"228987"
+					{
+						"DecryptionKey"		"cf0622b6dec67606fdc42e7afa5ede78cb33e38dfab82670c5ec7e1404e4984e"
+					}
+					"229004"
+					{
+						"DecryptionKey"		"56ebe05d052f59ad2e9b101102de603dca17402a9bb2ef0015962c6b3275a2d0"
+					}
+					"229005"
+					{
+						"DecryptionKey"		"aa18a527cdc103aeb3d12caafd6f581689a14467aa55658ba583a9af6e90313a"
+					}
+					"990081"
+					{
+						"DecryptionKey"		"99edd7f3221635d93481770b28ebac240488e1f42cf16f01e5a4e744b0944da6"
+					}
+					"990082"
+					{
+						"DecryptionKey"		"ac55581fbdef1f6687f91654d435e2d4c395d2fa56eb5aba4fa52d708118157e"
+					}
+					"825631"
+					{
+						"DecryptionKey"		"7272d6df7ae168e82d805f977c206d71014577137fdbee034e37d72263bf7356"
+					}
+					"825635"
+					{
+						"DecryptionKey"		"efcbbd8adef0b300f121cb3e2dc2981b0384bbb5108525c6e66a7e3b4126290c"
+					}
+					"1448441"
+					{
+						"DecryptionKey"		"ef3b4eaabfb5d6bd17666007dda635b99375509180b267fbba485e2df18b4ed0"
+					}
+					"1448442"
+					{
+						"DecryptionKey"		"4e508b0bc29665862ed41a6e37c28fe63fc758dca12297e0237f28b2df4b2fd7"
+					}
+					"2232890"
+					{
+						"DecryptionKey"		"c9d303abb2711b7678880b74da95738ae983c74990967e0607993544a12c5087"
+					}
+					"454651"
+					{
+						"DecryptionKey"		"f42c03be492cf6df28782bcf7630521712bb5425d268fcfc599731056ec1a21c"
+					}
+					"1245621"
+					{
+						"DecryptionKey"		"5f560fca048a138487e1e634a1e60693a7ad3ae7318c31731d147f16e093f10b"
+					}
+					"1245624"
+					{
+						"DecryptionKey"		"e194ce5e5f83c427743781c1708c4bce6683d5d65521059f6e4ca64a8f36f3cd"
+					}
+					"1455841"
+					{
+						"DecryptionKey"		"3e4b34c8fbc5bd37cbb53c5620a4a9dbab88e85274ffda1494d2a0ffa246d3fa"
+					}
+					"228982"
+					{
+						"DecryptionKey"		"fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5"
+					}
+					"229020"
+					{
+						"DecryptionKey"		"efca2304d92ac2bb7ebca174e6e5015fb0daf45d7db8ecfc1db6eaccdc7b27d9"
+					}
+					"270151"
+					{
+						"DecryptionKey"		"890656b6d838f582c17fb9b320de87e4883dde389e50259d18d7873e91282ea6"
+					}
+					"616850"
+					{
+						"DecryptionKey"		"a3731982c02f0287168afae9fce0533107fa3a8fe5fd172c2ad7b907b42402f9"
+					}
+					"1210750"
+					{
+						"DecryptionKey"		"b3de81fbc1559878bba58b6af0f1247db203740fc618b9e1beb34b01d7be2a7b"
+					}
+					"1948981"
+					{
+						"DecryptionKey"		"e24e21853fcf27393c4424978740b631785a618ee8356eb9fa135070ade87f1b"
+					}
+					"229006"
+					{
+						"DecryptionKey"		"9bc3e05ce55153e5c315cb18024602ca15958a7be03adc5ffbe53b00a8524416"
+					}
+					"1468811"
+					{
+						"DecryptionKey"		"57880f9288973b73552c08af505e7d3e21db84ff579c2b5d08a34f092f652349"
+					}
+					"1468810"
+					{
+						"DecryptionKey"		"947a1353f497af3a44dd791bbc5add8463d0714e94f78e608ca135ec6ae698c5"
+					}
+					"1407451"
+					{
+						"DecryptionKey"		"e77c2b5425b6c805511e3c7765549c490def944d6408b724c7f5e5296618e42c"
+					}
+					"1456823"
+					{
+						"DecryptionKey"		"319a6fba97b72514b79a55d7ce4a788f5f6bdfa08fb97768f45acbe5dc991402"
+					}
+					"1589121"
+					{
+						"DecryptionKey"		"a6344ed696a5558483823af1a67be2c5298340ad46a0c38fc2c925aa9be7d701"
+					}
+					"228985"
+					{
+						"DecryptionKey"		"21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c"
+					}
+					"848452"
+					{
+						"DecryptionKey"		"2faf06aaa2ceea761e8a38f7f8f72d4c64e3768d5e94c600e3c671f2eeffa17e"
+					}
+					"740131"
+					{
+						"DecryptionKey"		"53bd94c3766f7bed57c085db01225225321c8f56f7f7455beeb783b19d4c5f35"
+					}
+					"551861"
+					{
+						"DecryptionKey"		"632aa738fbd6c7f663f0393e5403b9a46eb1c33320dd5cd0f48c42bd33224903"
+					}
+					"1210321"
+					{
+						"DecryptionKey"		"d8767749a4bd55e51cd4cc1c210399bbbcb0e728f7caab6cdcdabb84ed18d158"
+					}
+					"229003"
+					{
+						"DecryptionKey"		"8e0ded6e1d9481eb286217322054ce7b0b8243daae770f31a30667752b1a3c63"
+					}
+					"229012"
+					{
+						"DecryptionKey"		"421e499f39a617c1a3b6baf11fbc65ffebd541d2c39c38d3bf6ffbd87919ce12"
+					}
+					"365451"
+					{
+						"DecryptionKey"		"bbbb5f70e666008307c6c11f917cf6f03781c29e49fe5762536e5aca4c119b97"
+					}
+					"365458"
+					{
+						"DecryptionKey"		"a4ef3ad79afb43c168e0c3f756a4f7d4b5dec49ab6c30a4798ed65a445ae2470"
+					}
+					"375821"
+					{
+						"DecryptionKey"		"31b9e993b5d4b3887ecb03835a9c656599bef4a0541af61855fa8e6012543645"
+					}
+					"375823"
+					{
+						"DecryptionKey"		"c78b1a0bb655506ea0f17056974dc72105ad979f50d36ebd1eaaf14077a14e9d"
+					}
+					"871931"
+					{
+						"DecryptionKey"		"61aee1c1f9e751d0f5719602b31ca9e4efab975e54f182c108a9f6b14e9f664a"
+					}
+					"871932"
+					{
+						"DecryptionKey"		"ca817de7fd55b521b0a38ad08fa12970c7a0e3f9af4acb88d187da7b00b1285a"
+					}
+					"619151"
+					{
+						"DecryptionKey"		"6db527c066a977f72470fa196f57067d6f891a14e2baa5122c8399d323fb57fe"
+					}
+					"1026800"
+					{
+						"DecryptionKey"		"4d79200dbc50207a3c84034a399847b33bbe75f2982ad25be89cddac6ef2c2a5"
+					}
+					"871934"
+					{
+						"DecryptionKey"		"18f433c9f97241b6b5ee2e14bd404174e130a36d5b0cb70b1feb447999512212"
+					}
+					"916441"
+					{
+						"DecryptionKey"		"fdf2da2bad8516bd58704e87cdd2101173aa1330d9328186184ff6445a945e19"
+					}
+					"916442"
+					{
+						"DecryptionKey"		"eb8f0f30eafebbbaf8c5870c365708e8a973fd5d817e79d08db91170da90284b"
+					}
+					"916443"
+					{
+						"DecryptionKey"		"070c294380877e9c7d8f2daab4a07fe0b2194473c79502b71e66b11d5ec4bbf0"
+					}
+					"916444"
+					{
+						"DecryptionKey"		"5f6372b7a1ed235b555d05aa54ec7bea9f3d4b08906633514b058b5bd14f4e6c"
+					}
+					"916445"
+					{
+						"DecryptionKey"		"2bb378d0ec6043f34d63cbf2c37a06e9d61c9c197188638cdd24b6fccc0ccbbf"
+					}
+					"916446"
+					{
+						"DecryptionKey"		"96ca058661170b58b95d8745bf9a352795ee003dfbf96c622825b88063eada12"
+					}
+					"1669981"
+					{
+						"DecryptionKey"		"3a047ea5cbf7ba1277d2f1f7ed2016381bf2791e4678e42a7548f09fa03284e6"
+					}
+					"1729411"
+					{
+						"DecryptionKey"		"6226027665cdad24eb16aed5859cffa58aa603bf125325103ea745f43a959c7e"
+					}
+					"1086941"
+					{
+						"DecryptionKey"		"4876e089a6bb7a4d8da586306d4040c7d4bd5fb7c05da6c5441a760aa0b2bef6"
+					}
+					"1086947"
+					{
+						"DecryptionKey"		"1e9c89eb1395c0ae168407fbcf33ea43b0f8937033d45485ee2a17737bd6beeb"
+					}
+					"1419652"
+					{
+						"DecryptionKey"		"43c13e12030aed1fdb00bd1c630bd68f0d22cb23289c879b00d7904aa05fcc89"
+					}
+					"1419653"
+					{
+						"DecryptionKey"		"dc9bee49d256e78104b71d0bf90e9818631b069dce3b576a86fa6345d3b94896"
+					}
+					"2378500"
+					{
+						"DecryptionKey"		"77dfde8ac009c5a510843210ffa1343976be2cc3a303122c9c635fcba725d9cb"
+					}
+					"228989"
+					{
+						"DecryptionKey"		"ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853"
+					}
+					"1113121"
+					{
+						"DecryptionKey"		"fa3f3b4a6b929572b908f7a0558a4055471173f4ca30ac3a068c4e0a89096414"
+					}
+					"228983"
+					{
+						"DecryptionKey"		"77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b"
+					}
+					"394361"
+					{
+						"DecryptionKey"		"da88f81230255452b07b325f7be45cd8687fecfeff239c0710f2d72b8bffd282"
+					}
+					"394362"
+					{
+						"DecryptionKey"		"80b524708536855cdbc85dbd45a0bdb6274e1ab1b06961b5e6cd4a5f63779df0"
+					}
+					"460551"
+					{
+						"DecryptionKey"		"3819a9db13bf790c863cb012854e902995ae3aa6849b4dc221731f02b43b3539"
+					}
+					"460555"
+					{
+						"DecryptionKey"		"90358c1ea70d38de534e78fbc4b1b7495cf8c7530b993d7b27dd56ce29c73a4c"
+					}
+					"460556"
+					{
+						"DecryptionKey"		"6defcc9d18882ae376f552fc49a1248e5cccd1bbabee500bf029bdc12e567748"
+					}
+					"460554"
+					{
+						"DecryptionKey"		"b18063aa7bbece48450ea44d1c19ae8cb80dfafa6eb33b449bd8d0cfae8a8e5b"
+					}
+					"460550"
+					{
+						"DecryptionKey"		"c10f169a7f5cff556e46550868b5ae8b5ff11851d16fdb3524dc1420c975cfe7"
+					}
+					"460559"
+					{
+						"DecryptionKey"		"cc7e9d2c3883c3eca4006e1acafac81482f4095b852ff9ffe795526d290c3a27"
+					}
+					"460557"
+					{
+						"DecryptionKey"		"3494d9162194df258b972acf2a7971b2176bac05190fa61103ec60fa2641461a"
+					}
+					"460600"
+					{
+						"DecryptionKey"		"67011014224330c337542bf6f0030bc8a0fac03762b3048d13a6f34e4a2a675b"
+					}
+					"460558"
+					{
+						"DecryptionKey"		"c89a66b596e379bedb101f2ea7424bfff2dcf2004771dea83bca4fbd6b802bb6"
+					}
+					"460610"
+					{
+						"DecryptionKey"		"bcad1434eb9a39898d10ddbb5a74906ffa28bc5455c933eb8620c7cea3dffc10"
+					}
+					"472410"
+					{
+						"DecryptionKey"		"da6439bdb944123afe1fb7e06b63e9a5e2876bc0de0f5c39cf9057e10eb94db4"
+					}
+					"530760"
+					{
+						"DecryptionKey"		"a97b49da667b41d9e0d65169630c60b558a038daa8ae39884c89f0c7eea516f9"
+					}
+					"584140"
+					{
+						"DecryptionKey"		"367370ab05b71cb2e4d774ddbd9fbe14d5e3ead25a4d53db1c6cee33d96d1f3d"
+					}
+					"642010"
+					{
+						"DecryptionKey"		"4866a3c5c0e5269bf0d428932f12481cc9e412bc3d6055adf75e3d38e8034354"
+					}
+					"702350"
+					{
+						"DecryptionKey"		"bc6d4e5aa395f974e78bd681f25de70571d6f938e53e8c35d9d7a12db7bb3697"
+					}
+					"815460"
+					{
+						"DecryptionKey"		"c4ad7f64ac408649ddb507770bd69b8c2678a427e1ea1b36641031ee9a497610"
+					}
+					"1086480"
+					{
+						"DecryptionKey"		"0b83f57f5fe0dea47576984a3073b0fb7c74b9dfe3f59d0d505c2997217aa0c1"
+					}
+					"1086481"
+					{
+						"DecryptionKey"		"312547d7598d5db9d09e2b656eb1bcc4f1e2d4f8e5e897fe827bce91670a7fee"
+					}
+					"1158100"
+					{
+						"DecryptionKey"		"417579bb04c14ef0c0a99b84d4527addedcf4b5f42f79f36ae1736844da654a8"
+					}
+					"1317230"
+					{
+						"DecryptionKey"		"b513b57fee4591f7d9f2e6883fef1019051dd93259eee88f8a1513a29c5807c2"
+					}
+					"1317250"
+					{
+						"DecryptionKey"		"b19bdf31327b07945efbf7cb689df20880b2312fe9797f030844bd8251043531"
+					}
+					"1348661"
+					{
+						"DecryptionKey"		"90210499739763009b116193b4dfa4f9660c987fe76c5b57fa4ebf5ae9d791d8"
+					}
+					"1348660"
+					{
+						"DecryptionKey"		"442d4c3ced2da36e4728ea1225129227b54a92264e3d7ceb36b37061cb772a65"
+					}
+					"1579991"
+					{
+						"DecryptionKey"		"3d68de74eaadbaf29c12201591f7643c5d61c738ac124fc97ff61c53ee586c78"
+					}
+					"1579992"
+					{
+						"DecryptionKey"		"763bd218331be2765a97d624c56e09c373fd00e657d3d66f343b230599ce6365"
+					}
+					"1880650"
+					{
+						"DecryptionKey"		"3c4781bac59c92ee366aeb4a3f6e6e66fc9e247731eef90a13db05bdbab47774"
+					}
+					"2183930"
+					{
+						"DecryptionKey"		"157cf6d2f8725bcb35250fea726ee2806b46836405b6a9de22b17e7c75bc18d0"
+					}
+					"1948980"
+					{
+						"DecryptionKey"		"6d0e4344aa93ffe73f7fe7bb24d37aed4024fb6abc21e376e1e551157551e56c"
+					}
+					"1876891"
+					{
+						"DecryptionKey"		"40985dfc0fbcd23c2b692a036c22fad2ad18d03794b58ea33fd079acbfb53c5d"
+					}
+					"1696441"
+					{
+						"DecryptionKey"		"d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526"
+					}
+					"1696440"
+					{
+						"DecryptionKey"		"deb687a9d31a413fe2b84142979a8f528cbf24ad6492b1b5defe1bb227ae13fe"
+					}
+					"838350"
+					{
+						"DecryptionKey"		"bf086ed374abbdc30220a8965af14256dd7f48cb48cfe8f47d4f1eaedc79fd2e"
+					}
+					"838351"
+					{
+						"DecryptionKey"		"7de3577779d63fd52db715a1898f8353eb0f5f4096ab3391f77b582621e1adb8"
+					}
+					"2241120"
+					{
+						"DecryptionKey"		"306f5087d837883ad86f8b4feb42058723cbb7b7701724c3bb2098df278272d1"
+					}
+					"1189631"
+					{
+						"DecryptionKey"		"4d2066794a65c8a483422c91f805dddfbb6313b821af20b75219901021d9d30e"
+					}
+					"650761"
+					{
+						"DecryptionKey"		"c47a9730127e0409b0ec1ee9876faa317f7372187b33e4220310ae846e1bc86d"
+					}
+					"709060"
+					{
+						"DecryptionKey"		"dc4d08c6bb013d1447d892d9c069ab01dec943a25b0463d0aecbfb535687f111"
+					}
+					"994283"
+					{
+						"DecryptionKey"		"2b3d3e8e2c964c46ca71c17fb0e3d92b0ba71f18f7d09704c286a35e5982af19"
+					}
+					"882791"
+					{
+						"DecryptionKey"		"d03735cc64f770b0804e29339a745892ffbd4e7c84dc6b59c1426820b618513f"
+					}
+					"1681971"
+					{
+						"DecryptionKey"		"2b1c1ed24f1505af8e7e51e8ebee2247edb3e81ee1b529ffffe29bb3a2d3c2d4"
+					}
+					"1937520"
+					{
+						"DecryptionKey"		"4b7c62d2cca5506136c3d558abf78eec0e5375399c1ebbe6505023b10fb59812"
+					}
+					"681811"
+					{
+						"DecryptionKey"		"bb8d4a38f1769172b56dd4237f9a9855937bd1093978123fa987706511bf003a"
+					}
+					"2340651"
+					{
+						"DecryptionKey"		"a97e3fe5b1737a82dc6c602b5983ceb9119b915ab9efc58a3408b767e5e3fbea"
+					}
+					"955901"
+					{
+						"DecryptionKey"		"7a3f5a92b6422af44c29c94bc4d54cb778ee157e58873e3e7b4e3fd4f25d3956"
+					}
+					"1446730"
+					{
+						"DecryptionKey"		"df4bff2f0d54a794ba24b7faa60d334cc2abaf20d7ea625138d15a1bc6ac439d"
+					}
+					"1701600"
+					{
+						"DecryptionKey"		"d358bbd50b412fd6ccd9a211041aaf9f0b8927f65d503c2026576162a2140dcc"
+					}
+					"955900"
+					{
+						"DecryptionKey"		"5424a9ed4a4e466dae7151acf58d8bf0b60a8aa54a3289af037b1e56d36be716"
+					}
+					"1189491"
+					{
+						"DecryptionKey"		"b4468979ad10a0c235601089f984963e8f85ec0305bb91a8968ac7017f9f9e89"
+					}
+					"1189490"
+					{
+						"DecryptionKey"		"266a59b996ba6245f7bf915abcd51a1f573909c073b7322bd84f110dae4949af"
+					}
+					"2379781"
+					{
+						"DecryptionKey"		"16261e41d3e864018778d4a1d81658521a67d9ffb8543ea7e3e21f0685721af1"
+					}
+					"2805731"
+					{
+						"DecryptionKey"		"cba02030ed5c8f6bee173df1b7221d2cb3f296998fdb4a9b4de1fc65e9ee8c8a"
+					}
+					"2695150"
+					{
+						"DecryptionKey"		"3adc98cb6857ffdbb33dc39f0a55f767672396004827344ff611700ce53fd9c2"
+					}
+					"228281"
+					{
+						"DecryptionKey"		"4ccf8f28b07eacbfb0320da73abf7788fc518b7033c62add7d18f78ca3515d41"
+					}
+					"228284"
+					{
+						"DecryptionKey"		"0abb087e1849124c069599acf1c23799f2c092ad60715192a499686d3274c07c"
+					}
+					"385970"
+					{
+						"DecryptionKey"		"bf55252acfbe28dd4bdb5a7ae0ca72062da2ec4f25f1ec98de97dd462711437a"
+					}
+					"2981720"
+					{
+						"DecryptionKey"		"e6c2ccd3152d32b6f83f546feb98bde8e477df96162cd8d71b4a430941ebb879"
+					}
+					"1086942"
+					{
+						"DecryptionKey"		"5313c9d372b30e73c15606d9792e5f23314c21559d35f54eb7b5e8369e28b036"
+					}
+					"2924120"
+					{
+						"DecryptionKey"		"1ee9dbc5a2205fa53b8290d7b9444ba5bcbee983bf5c04a92851b83c8edca2ce"
+					}
+					"457141"
+					{
+						"DecryptionKey"		"1f77f3d9ef1b69fc77d28031a5ed6d04cc279101faa6ffe5f1e0915b4baab79c"
+					}
+					"1452491"
+					{
+						"DecryptionKey"		"65272efbc87a5b051b30af08129c729e7069bf5fb8152d68d21fa0588bdbaa42"
+					}
+					"2952301"
+					{
+						"DecryptionKey"		"0aac13130570a4cb9a749ceff82c255feee2a1bf65b45505327eed962cb26157"
+					}
+					"2732761"
+					{
+						"DecryptionKey"		"08242afa9f5cf247f59ce0748483c3a6eb9fca18a1d6521b687ba1cd1b8c0fc0"
+					}
+					"1203621"
+					{
+						"DecryptionKey"		"7f96699c353588876112960fa1128ff856383861b188907320369a798ecb07bb"
+					}
+					"743391"
+					{
+						"DecryptionKey"		"8f6433c5ab2508876ba66b91ce44e45550747cb55533c87a6f95c89d018ca207"
+					}
+				}
+				"RecentDownloadRate"		"3959636"
+				"Tools"
+				{
+					"1072420"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1604030"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1455840"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1764390"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"990080"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"825630"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"633230"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1448440"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1948980"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1468810"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1407450"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1113120"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1456820"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1589120"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"848450"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"551860"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1210320"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"365450"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"375820"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"871930"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"619150"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"916440"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"648800"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1669980"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1729410"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1086940"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1696440"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1876890"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"838350"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1189630"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"650760"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"994280"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"394360"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1681970"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"882790"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"681810"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"2340650"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"1189490"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"228280"
+					{
+						"SizeOnDisk"		"0"
+					}
+					"457140"
+					{
+						"SizeOnDisk"		"0"
+					}
+				}
+				"LastConfigstoreUploadTime"		"1732595736"
+				"system"
+				{
+					"IdleBacklightDimBatterySeconds"		"300"
+					"IdleBacklightDimACSeconds"		"900"
+					"IdleSuspendBatterySeconds"		"900"
+					"IdleSuspendACSeconds"		"3600"
+					"WifiPowerManagementEnabled"		"1"
+					"DisplayBrightness"		"1"
+				}
+				"apps"
+				{
+					"1407450"
+					{
+						"betahash_beta_4_users"		"02000000036db053f4ac577c03572910e6f49381e44742de002d5224b0865c494f81cc465cb099153c9f8a59fa39482e033d38720b9a2cdd9912fc0ee548f940534a08510097d58a51"
+						"betadesc_beta_4_users"		"Beta for steam users"
+					}
+				}
+				"IsSteamDeck_01"		"1"
+			}
+		}
+	}
+	"SDL_GamepadBind"		"03000000de280000ff11000001000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b8,lefttrigger:+a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:-a2,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+03000000de280000ff11000000000000,Steam Virtual Gamepad,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,leftshoulder:b4,leftstick:b8,lefttrigger:+a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:-a2,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows,
+03000000de280000ff11000000007701,Steam Virtual Gamepad,a:b0,b:b1,x:b2,y:b3,back:b6,start:b7,leftstick:b8,rightstick:b9,leftshoulder:b4,rightshoulder:b5,dpup:b10,dpdown:b12,dpleft:b13,dpright:b11,leftx:a1,lefty:a0~,rightx:a3,righty:a2~,lefttrigger:a4,righttrigger:a5,"
+	"streaming"
+	{
+		"ClientID"		"-1685656738085289099"
+	}
+	"Music"
+	{
+		"LocalLibrary"
+		{
+			"Directories"
+			{
+				"0"		"02000000463ae715d19d6f3a56650351e7fefde5a46703e96c29030cefda0d0878c0eb7306f7f4600fd9a00fca0c0878577e191658d72ae68d24a145a47bc101670e4b045c217a92917d9bef41ff7bd800648bf3"
+				"1"		"02000000463ae715d19d6f3a56650351e7fefde0a56d16e851054727efd801082c9af23f5facf47e0ecfa801967d0a7c5a661d354dd034f2ad24ad54a479b7600b795d34583b568ea00efe9d41ff73d0803603b4b44de85f00e45564c14d42e3a17c1b8f"
+			}
+		}
+	}
+	"authentication"
+	{
+		"RememberedMachineID"
+		{
+			"9c45be991"		"eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInI6MENGNF8yMjAzNEFFRF9FNEY5MSIsICJzdWIiOiAiNzY1NjExOTgyMDc0ODU1OTEiLCAiYXVkIjogWyAibWFjaGluZSIgXSwgImV4cCI6IDE2OTM1ODc4ODMsICJuYmYiOiAxNjY2NzE1NDcyLCAiaWF0IjogMTY3NTM1NTQ3MiwgImp0aSI6ICIwQ0Y2XzIyMDM0QUYxXzhCRjE2IiwgIm9hdCI6IDE2NzUzNTU0NzIsICJydF9leHAiOiAxNjkzNTg2ODU2LCAicGVyIjogMCwgImlwX3N1YmplY3QiOiAiMTI0LjEyNi4zLjc2IiwgImlwX2NvbmZpcm1lciI6ICIxMjQuMTI2LjMuNzYiIH0.ilbByQG7lCDSTEGw-eDOhdAH162kLVpCOJVs1TOe72jDl6V6Ih2nJvu14u9fOhcBqXO1h0Q98oBmU1KfDVyaBA"
+		}
+	}
+	"BigPicture"
+	{
+		"LoggedOutHapticsEnabled"		"1"
+		"Windowed"		"0"
+	}
+	"WebStorage"
+	{
+		"continuously_render_store"		"false"
+		"DownloadsStoreRecentlyCompleted"		"{\"version\":1,\"data\":[{\"appid\":457140,\"total_bytes\":325158272,\"downloaded_bytes\":325158272,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732605438,\"buildid\":15388110,\"target_buildid\":16532708,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":325158272,\"downloaded_bytes\":325158272},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":955900,\"total_bytes\":5615728,\"downloaded_bytes\":5615728,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732604378,\"buildid\":14081049,\"target_buildid\":16521114,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":5615728,\"downloaded_bytes\":5615728},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":1948980,\"total_bytes\":454752336,\"downloaded_bytes\":454752336,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732604236,\"buildid\":15542840,\"target_buildid\":16498022,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":454752336,\"downloaded_bytes\":454752336},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":1876890,\"total_bytes\":84825440,\"downloaded_bytes\":84825440,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732603901,\"buildid\":16388167,\"target_buildid\":16525124,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":84825440,\"downloaded_bytes\":84825440},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":743390,\"total_bytes\":186863680,\"downloaded_bytes\":186863680,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732601860,\"buildid\":0,\"target_buildid\":15088335,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":186863680,\"downloaded_bytes\":186863680},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":2732760,\"total_bytes\":151975888,\"downloaded_bytes\":151975888,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732596977,\"buildid\":0,\"target_buildid\":16128891,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":151975888,\"downloaded_bytes\":151975888},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":633230,\"total_bytes\":402441504,\"downloaded_bytes\":402441504,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1732595423,\"buildid\":15737821,\"target_buildid\":16249554,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":402441504,\"downloaded_bytes\":402441504},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":1407450,\"total_bytes\":1043631888,\"downloaded_bytes\":1043631888,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1731636003,\"buildid\":15530083,\"target_buildid\":15699123,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":1043631888,\"downloaded_bytes\":1043631888},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":1245620,\"total_bytes\":18546576,\"downloaded_bytes\":18546576,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1731635827,\"buildid\":15635101,\"target_buildid\":15950357,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":18546576,\"downloaded_bytes\":18546576},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]},{\"appid\":1086940,\"total_bytes\":8664855888,\"downloaded_bytes\":8664855888,\"active\":false,\"paused\":false,\"completed\":true,\"deferred_time\":0,\"queue_index\":-1,\"update_result\":0,\"update_error\":\"\",\"completed_time\":1731635789,\"buildid\":14010390,\"target_buildid\":16065077,\"launch_on_completion\":false,\"update_type_info\":[{\"has_update\":true,\"completed_update\":true,\"total_bytes\":8664855888,\"downloaded_bytes\":8664855888},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0},{\"has_update\":false,\"completed_update\":false,\"total_bytes\":0,\"downloaded_bytes\":0}]}]}"
+		"Auth"
+		{
+			"AlwaysShowUserChooser"		"1"
+		}
+	}
+	"CSettingsPanelGameController.Timeout"		"15"
+	"UI"
+	{
+		"Window"
+		{
+			"SP"
+			{
+				"X"		"0"
+				"Y"		"0"
+				"width"		"1280"
+				"height"		"800"
+			}
+		}
+		"display"
+		{
+			"Current"
+			{
+				"MinScaleFactor"		"0.5"
+				"MaxScaleFactor"		"1.49847817420959473"
+				"IsExternalDisplay"		"1"
+				"name"		"External: ANX7530 U|||Fullscreen-1280x800"
+				"AutoScaleFactor"		"1"
+			}
+			"External: ANX7530 U|||Fullscreen-1280x800"
+			{
+			}
+		}
+	}
+	"SteamDeckRegisteredSteamID"		"76561198207485591"
+	"SteamDeckRegisteredSerialNumber"		"FXAA250039DC"
+}
